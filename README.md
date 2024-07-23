@@ -1,7 +1,7 @@
 # Hello everyone, I'm Mahshid Khatami👋
 
 
-## 👩‍💻 About Me 👩‍💻
+## 👩‍💻 About Me 
 - I'm 29 years old and I'm from Saarbruecken, Germany
 - Looking for opportunities in Data Analysis and Computational Biology  
 - 📫 How to reach me: [Email](khatami.mahshid@gmail.com)
@@ -10,13 +10,13 @@
 
 
 
-## Social Media
+## 📱 Social Media
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahshidkhatami-data-analyst)
 - [![Email](https://img.shields.io/badge/Email-Connect-blue)](mailto:khatami.mahshid@gmail.com)
 
 
 
-## 🧑‍💼 Skills
+## 👩🏻‍💼 Skills
 - **Programming Languages**: Python, R, SQL, Java, C, MATLAB
 - **Data Visualization**: Tableau, Power BI, Seaborn, Plotly, Matplotlib, Ggplot 
 - Data Cleaning, Data Wrangling, API and Web Scraping
