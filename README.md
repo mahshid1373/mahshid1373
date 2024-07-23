@@ -12,6 +12,7 @@
 
 ## Social Media
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahshidkhatami-data-analyst)
+- [![Email](https://img.shields.io/badge/Email-Connect-blue)](mailto:khatami.mahshid@gmail.com)
 
 
 
