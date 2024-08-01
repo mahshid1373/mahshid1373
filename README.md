@@ -30,7 +30,7 @@
 - Bioinformatics, Omics Data Analysis, Transcriptomics, Genomics
 
 
-## 📝 Projects
+## 📝 Sample Projects
 ### [🎥 Mini-Project: Movies, their review and success factors](https://github.com/mahshid1373/mp_movies_sql)
 - **Description**: This project explores the relationship between various movie attributes and their outcomes in terms of revenue, popularity, and user ratings.
 - **Programming Languages**: Python and SQL
