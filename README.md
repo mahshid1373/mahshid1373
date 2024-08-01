@@ -29,3 +29,7 @@
 ### [🎥 Mini-Project: Movies, their review and success factors](https://github.com/mahshid1373/mp_movies_sql)
 - **Description**: This project explores the relationship between various movie attributes and their outcomes in terms of revenue, popularity, and user ratings.
 - **Programming Languages**: Python and SQL
+
+### [🌓 Vanguard CX Digital Experiment Analysis](https://github.com/mahshid1373/vanguard-ab-test)
+- **Description**: The goal is to see if the new design leads to a better user experience and higher process completion rates.
+- **Skills**: Python and Streamlit and Tableau and Hypotheses Testing 
