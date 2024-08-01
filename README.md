@@ -5,7 +5,7 @@
 - I am 29 years old and currently reside in Saarbrücken, Germany.
 - 🎓 I hold a Bachelor's degree in Computer Science and a Master's degree in Computational Biology (Bioinformatics), both from Sharif University of Technology in Iran.
 - 🖥 🧬 Looking for opportunities in Data Analysis and Computational Biology
-- 🧬 To access my bioinformatics project, please get in touch with me.
+- 🧬 To access my bioinformatics projects, please get in touch with me.
 - 📫 How to contact me: [Email](khatami.mahshid@gmail.com)
 
 
