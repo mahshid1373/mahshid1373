@@ -4,7 +4,8 @@
 ## 👩‍💻 About Me 
 - I'm 29 years old and I'm living in Saarbrücken, Germany
 - 🎓 I have a bachelor degree in Computer Science from Sharif University of Technology  and a Master degree in Computational Biology (Bioinformatics) from Sharif University of Technology in Iran.
-- Looking for opportunities in Data Analysis and Computational Biology  
+- 🖥 🧬 Looking for opportunities in Data Analysis and Computational Biology
+- 🧬 To access my bioinformatics project, please get in touch with me.
 - 📫 How to reach me: [Email](khatami.mahshid@gmail.com)
 
 
@@ -22,7 +23,11 @@
 - **Data Visualization**: Tableau, Power BI, Seaborn, Plotly, Matplotlib, Ggplot 
 - Data Cleaning, Data Wrangling, API and Web Scraping
 - Build, Evaluate and Deploy Machine Learning Models and Pipelines (Scikit-Learn)
+- Story Telling
+- Exploratory Data Analysis
+- Git
 - Inferential Statistics and Business Intelligence
+- Bioinformatics, Omics Data Analysis, Transcriptomics, Genomics
 
 
 ## 📝 Projects
