@@ -4,7 +4,6 @@
 ## 👩‍💻 About Me 
 - I am 29 years old and currently reside in Saarbrücken, Germany.
 - 🎓 I hold a Bachelor's degree in Computer Science and a Master's degree in Computational Biology (Bioinformatics), both from Sharif University of Technology in Iran.
-- 🖥 🧬 Looking for opportunities in Data Analysis and Computational Biology
 - 🧬 To access my bioinformatics projects, please get in touch with me.
 - 📫 How to contact me: [Email](khatami.mahshid@gmail.com)
 
@@ -31,6 +30,14 @@
 
 
 ## 📝 Sample Projects
+### [🧬 RNA-Seq Analysis Project: Exploring the Impact of SNP Variants on Gene Expression](https://github.com/mahshid1373/RNA-Seq)
+- **Description**: This project involves the comprehensive analysis of RNA-Seq data from the 1000 Genomes Project.
+- **Programming Languages**: Python and R
+
+### [⚙️ Twitter Sentiment Analyzer](https://github.com/mahshid1373/Sentimental_Analysis)
+- **Description**: This project leverages machine learning techniques, particularly XGBoost, to classify the sentiment of tweets as negative, neutral, or positive. 
+- **Programming Languages**: Python and SQL
+  
 ### [🎥 Mini-Project: Movies, their review and success factors](https://github.com/mahshid1373/mp_movies_sql)
 - **Description**: This project explores the relationship between various movie attributes and their outcomes in terms of revenue, popularity, and user ratings.
 - **Programming Languages**: Python and SQL
