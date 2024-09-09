@@ -37,7 +37,11 @@
 ### [🧬 Mechanisms-of-Action-MoA-Prediction](https://github.com/mahshid1373/Mechanisms-of-Action-MoA-Prediction)
 - **Description**: This project is a comprehensive analysis of drug data using various data science techniques. The primary goal of this project is to explore and visualize drug usage patterns, identify significant trends, and provide meaningful insights using Python.
 - **Programming Languages**: Python 
-- 
+
+### [🏦 Random Forest Classification](https://github.com/mahshid1373/Random_Forest_Classification)
+- **Description**: This project consists of direct marketing campaigns by a Portuguese banking institution using phone calls. The campaigns aimed to sell subscriptions to a bank term deposit.
+- **Programming Languages**: Python
+
 ### [⚙️ Twitter Sentiment Analyzer](https://github.com/mahshid1373/Sentimental_Analysis)
 - **Description**: This project leverages machine learning techniques, particularly XGBoost, to classify the sentiment of tweets as negative, neutral, or positive. 
 - **Programming Languages**: Python and SQL
