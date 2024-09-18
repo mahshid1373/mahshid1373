@@ -51,5 +51,5 @@
 - **Programming Languages**: Python and SQL
 
 ### [🌓 Vanguard CX Digital Experiment Analysis](https://github.com/mahshid1373/vanguard-ab-test)
-- **Description**: The goal is to see if the new design leads to a better user experience and higher process completion rates.
+- **Description**: Conducted a comprehensive A/B test to evaluate the effectiveness of a new user interface design, resulting in a ~14% increase in process completion rates for the test group compared to the control group.
 - **Skills**: Python and Streamlit and Tableau and Hypotheses Testing 
